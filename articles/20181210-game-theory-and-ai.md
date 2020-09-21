@@ -51,4 +51,4 @@ AIの最も有名な会議の 1つである AAAI では
 この記事は 2018年12月10日に Qrunch にて公開していた記事を移管したものです
 :::
 
-[ref1]: /zenn/articles/20181207-game-theory-pd
+[ref1]: /fuuki/articles/20181207-game-theory-pd
